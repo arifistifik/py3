@@ -27,7 +27,7 @@ class Config(object):
         'LINE_SERVICES': '1459630796'
     }
 
-    APP_TYPE    = ApplicationType._VALUES_TO_NAMES[96]
+    APP_TYPE    = ApplicationType._VALUES_TO_NAMES[368]
     APP_VER     = '0.0.2'
     CARRIER     = '51089, 1-0'
     SYSTEM_NAME = 'ARIF-PC'
